@@ -51,4 +51,7 @@ Reference design of using the MPU9250 on nRF5288: nRF Thingy.
 Reference design of using the MPU9250 on nRF5288: nRF Thingy.
 [FW of nRF Thingy](https://github.com/NordicSemiconductor/Nordic-Thingy52-FW)
 
+### Manufacturer
 
+#### PCB Pool
+[Specifications](http://www.pcb-specification.com/uk)
