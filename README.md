@@ -1,4 +1,5 @@
 # Respository-of-WBR-SH
+This respository collects the resources of WBR-SH 
 
 ## Hardware Design
 
@@ -7,6 +8,8 @@
 [Circuitmaker](https://circuitmaker.com/): A community version of Altium Designer
 
 [AppCAD](http://www.hp.woodshot.com/): RF circuit calculator
+
+Similar project: [Nordic Thingy:52](https://www.nordicsemi.com/eng/Products/Nordic-Thingy-52)
 
 
 ### MCU 
@@ -30,4 +33,22 @@ This one is used with nRF51822:
 [2450AT43A100](https://www.johansontechnology.com/datasheets/antennas/2450AT43A100.pdf)
 
 [Johanson Chip Antenna selection guide](https://www.johansontechnology.com/downloads/chip-antenna-selection-guide.pdf)
+
+### Sensors
+#### IMU sensor: MPU-9250
+9-Axis sensor
+
+[Product page MPU-9250](https://www.invensense.com/products/motion-tracking/9-axis/mpu-9250/)
+
+Reference design of using the MPU9250 on nRF5288: nRF Thingy.
+[FW of nRF Thingy](https://github.com/NordicSemiconductor/Nordic-Thingy52-FW)
+
+#### Atmospheric pressure sensor: LPS25H
+24-bit 25 Hz ODR
+
+[Product page LPS25H](http://www.st.com/en/mems-and-sensors/lps25h.html)
+
+Reference design of using the MPU9250 on nRF5288: nRF Thingy.
+[FW of nRF Thingy](https://github.com/NordicSemiconductor/Nordic-Thingy52-FW)
+
 
