@@ -5,7 +5,7 @@
 ## MCU 
 nRF52832
 
-[Nordic General info center] https://infocenter.nordicsemi.com/index.jsp
+[Nordic General info center](https://infocenter.nordicsemi.com/index.jsp)
 
 ### RF reference
 This blog generally introduces the design of nRF52 chips
