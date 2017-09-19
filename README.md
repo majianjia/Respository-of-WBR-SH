@@ -7,6 +7,14 @@ This respository collects the resources of WBR-SH
 [Liftup](https://www.kickstarter.com/projects/getliftup/liftup-a-modern-resistance-band-that-tracks-your-w/description)
 is a sensorised resistance band, with loadcell sensor only, on kickstarter. Cancelled in April 2016
 
+## Firmware Design
+
+### Bluetooth 5
+
+Hints to achieve higher speed with ios and android (4+ packages in 1 interval):
+[Maximizing BLE Throughput on iOS and Android](https://punchthrough.com/blog/posts/maximizing-ble-throughput-on-ios-and-android)
+
+
 ## Hardware Design
 
 **Tools for design:**
