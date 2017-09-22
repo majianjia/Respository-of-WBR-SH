@@ -7,6 +7,11 @@ This respository collects the resources of WBR-SH
 [Liftup](https://www.kickstarter.com/projects/getliftup/liftup-a-modern-resistance-band-that-tracks-your-w/description)
 is a sensorised resistance band, with loadcell sensor only, on kickstarter. Cancelled in April 2016
 
+## APP
+
+### Android
+Usefull BLE tester [nRF connet](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=en_GB)
+
 ## Firmware Design
 
 ### Bluetooth 5
