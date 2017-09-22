@@ -14,6 +14,8 @@ is a sensorised resistance band, with loadcell sensor only, on kickstarter. Canc
 Hints to achieve higher speed with ios and android (4+ packages in 1 interval):
 [Maximizing BLE Throughput on iOS and Android](https://punchthrough.com/blog/posts/maximizing-ble-throughput-on-ios-and-android)
 
+Hints to avoid options overlapping in multiple connection 
+[How to connect to multiple Bluetooth Low Energy devices](https://stackoverflow.com/questions/21237093/android-4-3-how-to-connect-to-multiple-bluetooth-low-energy-devices)
 
 ## Hardware Design
 
