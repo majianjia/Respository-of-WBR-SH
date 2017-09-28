@@ -7,6 +7,9 @@ This respository collects the resources of WBR-SH
 [Liftup](https://www.kickstarter.com/projects/getliftup/liftup-a-modern-resistance-band-that-tracks-your-w/description)
 is a sensorised resistance band, with loadcell sensor only, on kickstarter. Cancelled in April 2016
 
+## Research with Dementia
+
+
 ## APP
 
 ### Android
