@@ -17,6 +17,9 @@ Usefull BLE tester [nRF connet](https://play.google.com/store/apps/details?id=no
 
 ## Firmware Design
 
+## Server
+REST API design guide([Chinese]（http://www.ruanyifeng.com/blog/2014/05/restful_api.html）)
+
 ### Bluetooth 5
 
 Hints to achieve higher speed with ios and android (4+ packages in 1 interval):
