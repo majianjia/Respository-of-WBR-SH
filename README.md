@@ -40,6 +40,8 @@ Calculate throughput for BLE4.2 & 5.0 [BLE v4.2: creating faster...](http://www.
 
 Similar project: [Nordic Thingy:52](https://www.nordicsemi.com/eng/Products/Nordic-Thingy-52)
 
+[nRF52 Online Power Profiler](https://devzone.nordicsemi.com/power/)
+
 
 ### MCU 
 nRF52832
