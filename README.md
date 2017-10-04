@@ -17,6 +17,8 @@ Usefull BLE tester [nRF connet](https://play.google.com/store/apps/details?id=no
 
 ## Firmware Design
 
+[All Tutorials by Nordic Employees](https://devzone.nordicsemi.com/tutorials/)
+
 ## Server
 REST API design guide([Chinese](http://www.ruanyifeng.com/blog/2014/05/restful_api.html))
 
