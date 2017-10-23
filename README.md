@@ -32,6 +32,15 @@ Hints to avoid options overlapping in multiple connection
 
 Calculate throughput for BLE4.2 & 5.0 [BLE v4.2: creating faster...](http://www.electronicdesign.com/communications/ble-v42-creating-faster-more-secure-power-efficient-designs-part-1)
 
+#### BLE tutorials
+
+Advertising: [Bluetooth low energy Advertising, a beginner's tutorial](https://devzone.nordicsemi.com/tutorials/5/)
+
+Service:[Bluetooth low energy Services, a beginner's tutorial](https://devzone.nordicsemi.com/tutorials/8/)
+
+Characteristics:[Bluetooth low energy Characteristics, a beginner's tutorial](https://devzone.nordicsemi.com/tutorials/17/)
+
+
 ## Hardware Design
 
 **Tools for design:**
