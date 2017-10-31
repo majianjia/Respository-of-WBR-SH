@@ -30,7 +30,7 @@ Hints to achieve higher speed with ios and android (4+ packages in 1 interval):
 Hints to avoid options overlapping in multiple connection 
 [How to connect to multiple Bluetooth Low Energy devices](https://stackoverflow.com/questions/21237093/android-4-3-how-to-connect-to-multiple-bluetooth-low-energy-devices)
 
-Calculate throughput for BLE4.2 & 5.0 [BLE v4.2: creating faster...](http://www.electronicdesign.com/communications/ble-v42-creating-faster-more-secure-power-efficient-designs-part-1)
+Calculate throughput for BLE4.2 & 5.0 [Bluetooth 5 speed: How to achieve maximum throughput for your BLE application](http://www.novelbits.io/bluetooth-5-speed-maximum-throughput/)
 
 #### BLE tutorials
 
