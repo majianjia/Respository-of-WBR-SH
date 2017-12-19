@@ -15,6 +15,8 @@ is a sensorised resistance band, with loadcell sensor only, on kickstarter. Canc
 ### Android
 Usefull BLE tester [nRF connet](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=en_GB)
 
+[Create / communicate with a service guide (Chinese)](http://blog.csdn.net/javazejian/article/details/52709857)
+
 ## Firmware Design
 
 [All Tutorials by Nordic Employees](https://devzone.nordicsemi.com/tutorials/)
