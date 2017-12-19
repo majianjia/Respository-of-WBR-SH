@@ -17,7 +17,7 @@ Usefull BLE tester [nRF connet](https://play.google.com/store/apps/details?id=no
 
 [Create / communicate with a service guide (Chinese)](http://blog.csdn.net/javazejian/article/details/52709857)
 
-How should large amount of data receive [安卓 蓝牙 android BLE 开发 (上)](http://www.jianshu.com/p/c7bb4e8f9fe6)
+How should large amount of data receive+（using service） [安卓 蓝牙 android BLE 开发 (上)](http://www.jianshu.com/p/c7bb4e8f9fe6)
 
 ## Firmware Design
 
